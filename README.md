@@ -12,36 +12,36 @@
 [상세보기](https://github.com/swcodingschool/dataAnalysis/blob/master/underconstruction.md)  
 
 ### SPSS사용법  
-[상세보기]()  
+[상세보기](https://github.com/swcodingschool/dataAnalysis/blob/master/underconstruction.md)  
 
 ### 기술통계분석  
-[상세보기]()  
+[상세보기](https://github.com/swcodingschool/dataAnalysis/blob/master/underconstruction.md)  
 
 ### t검정  
-[상세보기]()  
+[상세보기](https://github.com/swcodingschool/dataAnalysis/blob/master/underconstruction.md)  
 
 ### 분산분석  
-[상세보기]()  
+[상세보기](https://github.com/swcodingschool/dataAnalysis/blob/master/underconstruction.md)  
 
 ### 교차분석  
 질적 변수들 간의 관계를 검증
-[상세보기]()  
+[상세보기](https://github.com/swcodingschool/dataAnalysis/blob/master/underconstruction.md)  
 
 ### 요인분석과 신뢰도분석  
-[상세보기]()  
+[상세보기](https://github.com/swcodingschool/dataAnalysis/blob/master/underconstruction.md)  
 
 ### 상관분석
 연수 변수들 간의 관계를 검증하는 방법으로 상관분석과 회귀분석이 있다. 상관분석과 회귀분석의차이는 변수간의 관계가 상관(correlation)인지, 인과(causality)인지에 따라 달라진다. 상관분석은 상관관계를 검정하는 것으로 두 변수를 서로 동등한 입장에서 분석하는 방법이고, 회귀분석은 인과관계를 검정하는 것으로 하나 또는 여러 개의 원인변수(독립변수)가 다른 변수(종속변수)에 영향을 미칠 때 사용하는 분석방법이다.
-[상세보기]()  
+[상세보기](https://github.com/swcodingschool/dataAnalysis/blob/master/underconstruction.md)  
 
 ### 회귀분석
-[상세보기]()  
+[상세보기](https://github.com/swcodingschool/dataAnalysis/blob/master/underconstruction.md)  
 
 ### 구조방성식 모델의 개요  
-[상세보기]()  
+[상세보기](https://github.com/swcodingschool/dataAnalysis/blob/master/underconstruction.md)  
 
 ### 구조방정식모델 분석  
-[상세보기]()  
+[상세보기](https://github.com/swcodingschool/dataAnalysis/blob/master/underconstruction.md)  
 
 ## R을 이용한 데이터분석  
 
