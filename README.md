@@ -9,7 +9,7 @@
 > *2020년 1학기 코로나의 긴 터널을 지나며 충청대학 간호과 학생들과 보건통계실습 교과를 공부하고 정리한 내용이다. 순서는 사용 교재를 기준으로 하였으며, 각 링크페이지에서 분석방법에 대한 간단한 개념 정리와 교재에서 제시한 예제를 SPSS 통계 패키지를 사용하여 분석하고 결과를 간략히 해석하였다.*  
 
 ### 기초통계학  
-[상세보기]("./underconstruction.md")  
+[상세보기]("https://github.com/swcodingschool/dataAnalysis/blob/master/underconstruction.md")  
 
 ### SPSS사용법  
 [상세보기]()  
